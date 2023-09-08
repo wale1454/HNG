@@ -26,8 +26,8 @@ def Task_1_API():
                 "current_day": day_of_week,
                 "utc_time": formatted_time,
                 "track": track,
-                "github_file_url": "https://github.com/wale1454/repo/blob/main/filename.ext",
-                "github_repo_url": "https://github.com/wale1454/repo",
+                "github_file_url": "https://github.com/wale1454/HNG/blob/main/app.py",
+                "github_repo_url": "https://github.com/wale1454/HNG",
                 "status_code": 200            
     }
 
